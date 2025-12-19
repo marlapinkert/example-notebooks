@@ -1,3 +1,13 @@
+# ⚠️ Repository Archived ⚠️
+
+**This repository has been archived and is no longer maintained.**
+
+The content has been migrated to: [https://neurodesk.org/edu](https://neurodesk.org/edu)
+
+The source code for the new location can be found at: [https://github.com/neurodesk/neurodeskedu](https://github.com/neurodesk/neurodeskedu)
+
+---
+
 # example-notebooks
 
 #### Table of Contents
